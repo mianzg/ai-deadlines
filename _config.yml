@@ -3,8 +3,8 @@ title: Summer Research for Intl Students # (Maintained by @mianzg)
 description: Countdowns to eligible summer cs/math research opportunities deadlines
 author: Mian Zhong
 
-domain: "intlstd-su-research.es"
-baseurl: ""
+domain: "intlstd-su-research/"
+baseurl: "https://mianzg.github.io/"
 
 twitter_username: 
 twitter_hashtag: 
