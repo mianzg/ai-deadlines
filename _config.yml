@@ -1,15 +1,15 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
-author: Abhishek Das
+title: Summer Research for Intl Students # (Maintained by @mianzg)
+# email: mian.zhong@berkeley.edu
+description: Countdowns to eligible summer cs/math research opportunities deadlines
+author: Mian Zhong
 
-domain: "aideadlin.es"
+domain: "intlstd-su-research.es"
 baseurl: ""
 
-twitter_username: abhshkdz
-twitter_hashtag: machinelearning
-github_username: abhshkdz
-github_repo: ai-deadlines
+twitter_username: 
+twitter_hashtag: 
+github_username: mianzg
+github_repo: intlstd-su-research
 
 markdown: kramdown
 ga_id: UA-36274081-2
