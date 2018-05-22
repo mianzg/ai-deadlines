@@ -55,7 +55,7 @@
               </div>
             </div>
         </div>
-        {% for conf in site.data.conferences %}
+        {% for conf in site.data.research %}
         <div id="{{conf.id}}" class="{% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
           <div class="row">
               <div class="col-xs-12 col-sm-6">
@@ -84,7 +84,7 @@
     </div>
     <script type="text/javascript" charset="utf-8">
     $(function() {
-        {% for conf in site.data.conferences %}
+        {% for conf in site.data.research %}
         {% if conf.deadline == "TBA" %}
           $('#{{conf.id}} .timer').html("TBA");
           $('#{{conf.id}} .deadline-time').html("TBA");
