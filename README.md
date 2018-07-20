@@ -5,7 +5,7 @@ Countdown timers to keep track of CS/Math summer research applications eligible 
 ## Adding/updating a conference
 
 - Fork the repository
-- Update `_data/conferences.yml`
+- Update `_data/research.yml`
 - Make sure it has the `name`, `year`, `id`, `link`, `deadline`, `timezone`, `date`, `place` attributes
 - Send a pull request
 
