@@ -38,5 +38,49 @@
   deadline: "2019-01-19 15:59:59"
   timezone: MT
   date: late May to early August (approx)
-  place: Williamstown, Massachusetts
+  place: Multiple
   sub: US
+  
+- name: ISR REUSE Summer Research Program (CMU)
+  year: 2019
+  id: reuse2019
+  link:  http://www.isri.cmu.edu/education/reu-se/index.html
+  deadline: "2019-02-16 23:59:59"
+  timezone: EST
+  date: May 29 - Aug 3 (approx)
+  place: Pittsburgh, Pennsylvania
+  sub: US
+  
+- name: ISR REUSE Summer Research Program (CMU)
+  year: 2019
+  id: reuse2019
+  link:  http://www.isri.cmu.edu/education/reu-se/index.html
+  deadline: "2019-02-16 23:59:59"
+  timezone: EST
+  date: May 29 - Aug 3 (approx)
+  place: Pittsburgh, Pennsylvania
+  sub: US
+  
+- name: Student Summer Research Fellowship (ETH)
+  year: 2019
+  id: ssrfeth2019
+  link:https://www.inf.ethz.ch/studies/summer-research-fellowship.html
+  deadline: "2018-12-31 23:59:59"
+  timezone: CET
+  date: July 1 - Aug 31
+  place: Zürich, Switherland
+  sub: EU
+
+- name: APS/IBM Research Internship for Undergraduate Women and Underrepresented Minorities
+  year: 2019
+  id: apsibm2019
+  link: https://www.aps.org/programs/women/scholarships/ibm/
+  deadline: "2019-02-15 23:59:59"
+  timezone:
+  date: EST
+  place: Multiple
+  sub: US
+  
+
+
+
