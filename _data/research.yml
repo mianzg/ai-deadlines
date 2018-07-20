@@ -81,6 +81,55 @@
   place: Multiple
   sub: US
   
+- name: Summer@EPFL
+  year: 2019
+  id: epfl2019
+  link: https://ic.epfl.ch/computer-science/summer-at-epfl
+  deadline: "2018-11-15 23:59:29"
+  timezone: MT
+  date: Usually from JULY to SEPTEMBER, but flexible
+  place: Lausanne, Switzerland
+  sub: EU
 
+- name: SURE@McGill
+  year: 2019
+  id: mcgill2019
+  link: https://www.mcgill.ca/engineering/students/undergraduate/research
+  deadline: "2019-01-26 23:59:59"
+  timezone: EST
+  date: 16 weeks
+  place: Montreal, Quebec, Canada
+  sub: Other
+  
+- name: Research in Industrial Projects for Students (UCLA) 
+  year: 2019
+  id: ipam2019
+  link: http://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2018/?tab=application
+  deadline: "2019-02-12"
+  timezone: EST
+  date: Late June - Late August
+  place: Los Angeles, California
+  sub: US
 
+- name: HCII’s Summer Research Program (CMU)
+  year: 2018
+  id: hcii2018
+  link: https://hcii.cmu.edu/summer-research-2018
+  deadline: "2018-02-20 23:59:59"
+  timezone: EST
+  date: May 29, 2018 to August 3, 2018
+  place: Pittsburgh, Pennsylvania
+  sub: US
+  
+- name: Duke Summer Research Opportunity Program
+  year: 2019
+  id: duke2019
+  link: https://gradschool.duke.edu/about/diversity-inclusion/diversity-efforts/duke-summer-research-opportunity-program
+  deadline: "2019-01-16 23:59:59"
+  timezone: EST
+  date: May 29 through August 4
+  place: Durham, North Carolina
+  sub: US
+  
+  
 
