@@ -44,7 +44,7 @@
 - name: ISR REUSE Summer Research Program (CMU)
   year: 2019
   id: reuse2019
-  link:  http://www.isri.cmu.edu/education/reu-se/index.html
+  link: http://www.isri.cmu.edu/education/reu-se/index.html
   deadline: "2019-02-16 23:59:59"
   timezone: EST
   date: May 29 - Aug 3 (approx)
@@ -54,7 +54,7 @@
 - name: ISR REUSE Summer Research Program (CMU)
   year: 2019
   id: reuse2019
-  link:  http://www.isri.cmu.edu/education/reu-se/index.html
+  link: http://www.isri.cmu.edu/education/reu-se/index.html
   deadline: "2019-02-16 23:59:59"
   timezone: EST
   date: May 29 - Aug 3 (approx)
@@ -64,7 +64,7 @@
 - name: Student Summer Research Fellowship (ETH)
   year: 2019
   id: ssrfeth2019
-  link:https://www.inf.ethz.ch/studies/summer-research-fellowship.html
+  link: https://www.inf.ethz.ch/studies/summer-research-fellowship.html
   deadline: "2018-12-31 23:59:59"
   timezone: CET
   date: July 1 - Aug 31
