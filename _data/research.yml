@@ -20,3 +20,23 @@
   date: June 1 to mid-August, 2019
   place: Pittsburgh, Pennsylvania
   sub: US
+  
+- name: SMALL Undergraduate Research Project (Williams College)
+  year: 2019
+  id: small2019
+  link: https://math.williams.edu/small/
+  deadline: "2019-02-07 23:59:59"
+  timezone: EST
+  date: mid June to mid August (approx)
+  place: Williamstown, Massachusetts
+  sub: US
+  
+- name: SIParCS Program (National Center for Atmospheric Research)
+  year: 2019
+  id: siparcs2019
+  link: https://www2.cisl.ucar.edu/siparcs
+  deadline: "2019-01-19 15:59:59"
+  timezone: MT
+  date: late May to early August (approx)
+  place: Williamstown, Massachusetts
+  sub: US
