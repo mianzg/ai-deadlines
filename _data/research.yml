@@ -131,5 +131,25 @@
   place: Durham, North Carolina
   sub: US
   
+- name: Post-Bachelor Program (University of Heidelberg)
+  year: 2018
+  id: pdp2018
+  link: http://www.mathcomp.uni-heidelberg.de/programs/post-bachelor-program/
+  deadline: "2018-09-30 23:59:59"
+  timezone: MT
+  date: Flexible
+  place: Heidelberg, Germany
+  sub: EU
   
+- name: ISI Summer Internship Program (USC)
+  year: 2018
+  id: uscisi2018
+  link: https://www.isi.edu/join_us/summer_internships/
+  deadline: "2018-03-16 23:59:59"
+  timezone: PST
+  date: Late May to Mid August
+  place: Multiple
+  sub: US
+ 
+
 
