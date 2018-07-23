@@ -150,6 +150,24 @@
   date: Late May to Mid August
   place: Multiple
   sub: US
- 
 
+- name: Fields Undergraduate Summer Research Program
+  year: 2018
+  link: fields2018
+  deadline: "2018-01-22 23:59:59"
+  timezone: EST
+  date: July 3 to August 31, 2018
+  place:Toronto, Canada
+  sub: Other
+
+- name: CBMM Engineering Intelligence Team (MIT)
+  year: 2018 
+  id: cbmm2018
+  link: http://cbmm.mit.edu/about/job-opportunities/mit-urop-masters-students-undergrads-join-cbmm-engineering-intelligence-team
+  deadline: "2018-12-31 23:59:59"
+  timezone: EST
+  date: NA
+  place: NA
+  sub: US
+  
 
